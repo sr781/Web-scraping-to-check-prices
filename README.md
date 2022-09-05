@@ -5,11 +5,13 @@ A program that checks the price of an item daily using web scraping and then ema
 
 Figure 1: The item in question
 
-
+#
+#
 ![image](https://user-images.githubusercontent.com/96390217/188483374-40381046-a767-486a-b320-abc43c5f48c0.png)
 
 Figure 2: The email sent if the item price is below the threshold price
-
+#
+#
 
 ![image](https://user-images.githubusercontent.com/96390217/188483429-a8fc9fc9-212e-4c56-97de-9d30ed16fb75.png)
 
